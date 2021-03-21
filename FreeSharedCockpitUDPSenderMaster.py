@@ -4,14 +4,14 @@ import threading
 import os
 
 #MASTER
-host = '192.168.1.102'
+host = '192.168.2.103'
 inip = '0.0.0.0'
 inport = 49000
 outport = 49001
 
 
 '''SLAVE
-host = '192.168.1.115'
+host = '192.168.2.103'
 inip = '0.0.0.0'
 inport = 49001
 outport = 49000
